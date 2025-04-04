@@ -117,19 +117,19 @@ Lista de atributos obligatorios que deben estar presentes en la respuesta de la 
 
 Si falta alguno, la validación fallará.
 
-## Distintos test 
+### Distintos test 
 
-## 200 OK (Solicitud Exitosa)
+#### 200 OK (Solicitud Exitosa)
 
-## 500 Internal Server Error (Error Interno del Servidor)
+#### 500 Internal Server Error (Error Interno del Servidor)
 
-## 401 Unauthorized (No Autorizado)
+#### 401 Unauthorized (No Autorizado)
 
-## 404 Not Found (No Encontrado)
+#### 404 Not Found (No Encontrado)
 
-## 400 Bad Request (Solicitud Incorrecta)
+#### 400 Bad Request (Solicitud Incorrecta)
 
-## 422 Unprocessable Entity (Entidad No Procesable)
+#### 422 Unprocessable Entity (Entidad No Procesable)
 
 
 
