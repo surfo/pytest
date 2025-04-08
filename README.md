@@ -164,6 +164,11 @@ pytest tests/unit/test_modulo.py
   ```bash
   pytest --lf
   ```
+  **Ejecutar pruebas seteando el environment a probar(win):**
+  ```bash
+  set ENV=dev
+  pytest -v test_login.py
+  ```
 
 
 
